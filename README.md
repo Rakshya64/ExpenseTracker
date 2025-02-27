@@ -21,7 +21,9 @@ If Python is not installed, download it from [python.org](https://www.python.org
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/Rakshya64/ExpenseTracker.git
+cd ExpenseTracker
+
 cd expense-tracker
 ```
 
